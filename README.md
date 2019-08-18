@@ -10,4 +10,4 @@ ni=(ni−12−2)mod(2p−1);
 
 The Lucas-Lehmer accepts the exponent p  of a Mersenne number and returns the Lucas-Lehmer sequence up to  i=p−2 (inclusive)
 
-For a given Mersenne number with exponent  pp , the number is prime if the Lucas-Lehmer series is 0 at position  p−2. Mersenne Primes Gets a list of Prime numbers b/w given numbers a, b i.e. 3, 65 and tests whether the mersenne numbers b/w these  are prime or not.
+For a given Mersenne number with exponent  p , the number is prime if the Lucas-Lehmer series is 0 at position  p−2. Mersenne Primes Gets a list of Prime numbers b/w given numbers a, b i.e. 3, 65 and tests whether the mersenne numbers b/w these are prime or not.
