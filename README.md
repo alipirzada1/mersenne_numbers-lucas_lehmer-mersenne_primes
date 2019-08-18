@@ -5,5 +5,5 @@ A Mersenne number is any number that can be written as  2^p - 1  for some  p . F
 
 We can test if a Mersenne number is prime using the Lucas-Lehmer test. Given a Mersenne number with exponent  p , the Lucas-Lehmer sequence can be defined as, 
                                              n0=4
-                                    ni=(n2i−1−2)mod(2p−1)
+                                    ni=(n2i−1−2)mod(2p−1) 
 
